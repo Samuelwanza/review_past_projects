@@ -28,7 +28,7 @@ body {
 }
 
 .navigation-links ul {
-  display: flex;  
+  display: flex;
 }
 
 li {
@@ -82,7 +82,7 @@ a {
 }
 
 .services {
-  display:flex;
+  display: flex;
   justify-content: center;
   margin-top: 50px;
 }
@@ -103,14 +103,14 @@ a {
 }
 
 .pricing-options {
-  display:flex;
+  display: flex;
   justify-content: space-around;
   padding-left: 4rem;
   padding-right: 4rem;
   margin-top: 3rem;
 }
 
-.price-card{
+.price-card {
   width: 200px;
   border: solid;
   border-width: 1px;
