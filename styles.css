@@ -1,5 +1,5 @@
 body {
-  background-color:aliceblue;
+  background-color: aliceblue;
   opacity: 60%;
   font-family: sans-serif;
   color: black;
@@ -24,11 +24,11 @@ body {
 }
 
 .logo {
-  display: flex;    
+  display: flex;
 }
 
 .navigation-links ul {
-    display: flex;  
+  display: flex;  
 }
 
 li {
@@ -56,11 +56,11 @@ a {
 }
 
 .herosection-input {
-  background-color:white;
+  background-color: white;
   width: 250px;
   border: solid;
   border-width: 1px;
-  padding-top:0.2rem;
+  padding-top: 0.2rem;
   padding-bottom: 0.2rem;
 }
 
@@ -70,7 +70,6 @@ a {
   font-size: medium;
   background-color: yellow;
   padding-top: 1rem;
-  padding: 0.2rem
 }
 
 .service-card {
