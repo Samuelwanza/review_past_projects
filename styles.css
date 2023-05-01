@@ -4,7 +4,6 @@ body {
   font-family: sans-serif;
   color: black;
   box-sizing: border-box;
-  color: black;
 }
 
 .header {
@@ -25,8 +24,9 @@ body {
 }
 
 .logo {
-  display:flex;    
+  display: flex;    
 }
+
 .navigation-links ul {
     display: flex;  
 }
@@ -36,7 +36,6 @@ li {
   font-size: medium;
   list-style: none;
   padding-left: 2rem;
-
 }
 
 a {
@@ -44,11 +43,9 @@ a {
   font-size: medium;
   font-style: none;
   color: black;
-
 }
 
 .hero-section {
-  display: block;
   justify-content: center;
   display: flex;
 }
@@ -59,12 +56,12 @@ a {
 }
 
 .herosection-input {
-background-color:white;
-width: 250px;
-border: solid;
-border-width: 1px;
-padding-top:0.2rem;
-padding-bottom: 0.2rem;
+  background-color:white;
+  width: 250px;
+  border: solid;
+  border-width: 1px;
+  padding-top:0.2rem;
+  padding-bottom: 0.2rem;
 }
 
 .hero-section-button {
@@ -72,17 +69,17 @@ padding-bottom: 0.2rem;
   margin-top: 1rem;
   font-size: medium;
   background-color: yellow;
-  padding-top:1rem;
-  padding:0.2rem
+  padding-top: 1rem;
+  padding: 0.2rem
 }
 
 .service-card {
-  display:flex;
+  display: flex;
 }
 
 .service-image img {
   width: 100px;
-  height:100px;
+  height: 100px;
 }
 
 .services {
@@ -96,7 +93,7 @@ padding-bottom: 0.2rem;
 }
 
 .youtube-section {
-  display:flex;
+  display: flex;
   justify-content: center;
   margin-top: 20px;
 }
@@ -109,14 +106,14 @@ padding-bottom: 0.2rem;
 .pricing-options {
   display:flex;
   justify-content: space-around;
-  padding-left:4rem;
-  padding-right:4rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
   margin-top: 3rem;
 }
 
 .price-card{
   width: 200px;
-  border:solid;
+  border: solid;
   border-width: 1px;
-  padding:10px;
+  padding: 10px;
 }
